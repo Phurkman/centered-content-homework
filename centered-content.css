@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0px;
+    background-color: rgb(182, 215, 231);
+}
+.header {
+    background-color:khaki;
+    padding: 20PX;
+    margin: 0;
+}
+.main {
+    background-color:khaki;
+    padding: 20px;
+
+}
+.wrapper {
+    max-width:900px;
+    margin: auto;
+}
